@@ -1,6 +1,10 @@
+#!/usr/bin/env python
+
 # This is welcome page of my server - dengjl.com
 
 
+print "Content-Type: text/html; charset=utf-8"
+print
 print "<html>"
 print "<head>"
 print "<meta charset=\"utf-8\">"
