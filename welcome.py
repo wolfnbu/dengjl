@@ -1,8 +1,6 @@
 # This is welcome page of my server - dengjl.com
 
 
-print "Content-type:text/html"
-print
 print "<html>"
 print "<head>"
 print "<meta charset=\"utf-8\">"
